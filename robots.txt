@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: http://goobball.com/sitemap.xml
+Sitemap: https://goobball.com/sitemap.xml
